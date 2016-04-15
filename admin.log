@@ -1,0 +1,12 @@
+﻿2016-04-15 14:35:24 INFO  admin - Start the server.
+2016-04-15 14:35:24 INFO  admin - Working server.
+2016-04-15 14:35:28 ERROR admin - Cant read from user.java.io.IOException: Удаленный хост принудительно разорвал существующее подключение
+2016-04-15 14:35:28 ERROR admin - Cant write to user.java.io.IOException: Удаленный хост принудительно разорвал существующее подключение
+2016-04-15 15:11:57 ERROR admin - Error on try to start the server.java.net.BindException: Address already in use: bind
+2016-04-15 15:11:57 INFO  admin - Server successfully stopped.
+2016-04-15 15:12:06 ERROR admin - Error on try to start the server.java.net.BindException: Address already in use: bind
+2016-04-15 15:12:06 INFO  admin - Server successfully stopped.
+2016-04-15 15:12:22 INFO  admin - Start the server.
+2016-04-15 15:12:22 INFO  admin - Working server.
+2016-04-15 15:39:43 INFO  admin - Start the server.
+2016-04-15 15:39:43 INFO  admin - Working server.

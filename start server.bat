@@ -1,0 +1,1 @@
+start java -cp target/FChat-1.0-SNAPSHOT-jar-with-dependencies.jar MainApp
